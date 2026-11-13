@@ -31,4 +31,9 @@ public class CalculadoraJava {
         }
         return a / b;
     }
+    
+    // Calcula la potencia de un número elevado a otro
+    public double potencia(double base, double exponente) {
+        return Math.pow(base, exponente);
+    }
 }
