@@ -28,7 +28,7 @@ public class Main {
                 + calculadora.multiplicar(numero1, numero2)
         );
         System.out.println(
-                "División: " + calculadora.dividir(numero1, numero2)
+                "División: "+ calculadora.dividir(numero1, numero2)
         );
 
     }
