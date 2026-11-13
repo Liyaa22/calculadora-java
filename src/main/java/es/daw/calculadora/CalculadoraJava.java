@@ -1,0 +1,17 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+package es.daw.calculadora;
+
+/**
+ *
+ * @author liyan
+ */
+public class CalculadoraJava {
+
+    //Suma dos números
+    public double sumar(double a, double b) {
+        return a + b;
+    }
+    
+}
